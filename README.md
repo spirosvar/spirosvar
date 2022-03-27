@@ -1,4 +1,4 @@
-### Hi Everyone!
+## Hi there, I'm Spiros!
 
 - 🔭 I’m currently working on ... Jakarta EE 8
 - 🌱 I’m currently learning ... Vanilla JavaScript
